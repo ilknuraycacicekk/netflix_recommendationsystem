@@ -16,8 +16,8 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımlara ihtiyacınız var:
 ## Kurulum
 1. **Depoyu klonlayın:**
    ```bash
-   git clone https://github.com/ilknuraycacicekk/RecoFlix.git
-   cd RecoFlix
+   git clone https://github.com/ilknuraycacicekk/proje_adı.git
+   cd proje_adı
    ```
 
 2. **Gerekli kütüphaneleri yükleyin:**
